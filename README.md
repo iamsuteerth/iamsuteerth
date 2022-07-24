@@ -1,5 +1,6 @@
 <div align="center">
-  <img height = "400px" src=https://user-images.githubusercontent.com/98741486/180620911-5aa3e5f4-c62b-445e-8064-2ca60e030885.gif />
+  <img height = "400px" src="https://user-images.githubusercontent.com/98741486/180661116-5beb08a8-d293-4873-9a19-4bfbfe18e723.gif"
+= />
 </div>
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
 <h3 align="center"> Android App Developer 📱 ||  Web Dev Enthusiast 🌐 || Coder 🧑‍💻 ||  Gamer 🎮 </h3>
@@ -60,9 +61,17 @@ alt="suteerth-subramaniam" height="30" width="40" />
 </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuteerth&show_icons=true&locale=en&layout=compact" alt="iamsuteerth" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&show_icons=true&locale=en" alt="iamsuteerth" /></p>
+
+## 📊 GitHub Stats
+<div>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=iamsuteerth&theme=shades-of-purple&custom_title=Suteerth+Subramaniam's+GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuteerth&theme=shades-of-purple&hide_border=true"/>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+</p>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=iamsuteerth&theme=react&custom_title=Contributions%20Brownian%20Graph&bg_color=2d2b55&color=f4cb02&line=f4cb02&point=f4cb02&area=true&hide_border=true" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
