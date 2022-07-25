@@ -64,10 +64,10 @@ alt="suteerth-subramaniam" height="30" width="40" />
 
 ## 📊 GitHub Stats
 <div>
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=iamsuteerth&theme=shades-of-purple&custom_title=Suteerth+Subramaniam's+GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&theme=shades-of-purple&custom_title=Suteerth+Subramaniam's+GitHub+Stats&show_icons=true&locale=en"/>
 <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuteerth&theme=shades-of-purple&hide_border=true"/>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=shades-of-purple&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook" />
 </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
