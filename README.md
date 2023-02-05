@@ -3,7 +3,7 @@
 = />
 </div>
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
-<h3 align="center"> Flutter App Developer 📱 || Competitive Coding & DSA ❤️ || Coder 🧑‍💻 ||  Gamer 🎮 </h3>
+<h3 align="center"> Flutter App Developer 📱 || Competitive Coding 💻 & DSA ❤️ ||  Gamer 🎮 </h3>
 
  
 <h1 align="center"> ⭐ About Me ⭐ </h1>
