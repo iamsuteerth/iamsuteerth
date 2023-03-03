@@ -3,29 +3,29 @@
 = />
 </div>
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
-<h3 align="center"> Flutter App Developer 📱 || Competitive Coding 💻 & DSA ❤️ ||  Gamer 🎮 </h3>
+<h3 align="center"> Flutter App Developer 📱 || Competitive Coding 💻 || DSA ❤️ ||  Gamer 🎮 </h3>
 
  
 <h1 align="center"> ⭐ About Me ⭐ </h1>
 
 🏫 I am currently pursuing B.Tech in Computer Science and Engineering from **Vellore Institute Of Technology, Vellore**.
 
-📱 I am currently making **android apps** in **java**.
+📱 I am currently making **cross platform mobile apps** in **flutter**.
 
-💻 I am learning programming languages and practicing CC.
+💻 I am actively solving LeetCode and CodeForces.
 
 🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas.
 
 💭 Ask me about **Competitive Coding** and my **domains**.
 
-⚡***Hobbies*** : **Gym**🏋️, **Playing Football** ⚽, **Playing Esports and Open World Games** & **Listening to Pop**.
+⚡***Hobbies*** : **Gym**🏋️, **Playing Football** ⚽, **Playing Open World Games** & **Listening to Pop**.
 
 ✉️ How to reach me **[Mail Here](mailto:suteerth.work@gmail.com)**
 
 ## Connect With Me 🌏
 <p align="left>
-<a href="https://https://www.linkedin.com/in/suteerth-subramaniam-723a27221/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+<a href="https://www.linkedin.com/in/suteerth-subramaniam-723a27221/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 alt="suteerth-subramaniam" height="30" width="40" />
 </a>
 <a href="https://instagram.com/iamsuteerth" target="blank">
