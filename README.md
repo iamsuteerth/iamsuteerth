@@ -49,10 +49,14 @@ alt="suteerth-subramaniam" height="30" width="40" />
 </a> 
 <a href="https://dev.java/learn/getting-started-with-java/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
 </a>
+<a href="https://dart.dev/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+</a>
 <a href="https://firebase.google.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
  <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98741486/180622955-cfb54d37-5116-492d-961b-03dc615c0104.png" alt="androidstudio" width="40" height="40"/> 
 </a> 
+<a href="https://flutter.dev/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+</a>
   <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
