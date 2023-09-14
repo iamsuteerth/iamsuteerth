@@ -119,7 +119,7 @@
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
 </a>
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <details>
   <summary><b> 💻 Platforms </b></summary>
@@ -144,19 +144,30 @@
 </p>
 </details>
 
-#
+<details>
+  <summary><b> 📊 GitHub Stats 📊 </b></summary>
+  
+  ## 
+  <div>
+    <img  width="49%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+    <p><br></p>
+    <p align = "center">
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&theme=tokyonight&custom_title=Suteerth+Subramaniam's+GitHub+Stats&show_icons=true&locale=en&hide_border=true"/>
+    </p>
+    <p align = "center">
+    <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuteerth&theme=tokyonight&hide_border=true"/>
+    </p>
+    <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook" />
+    </p>
+  </div>
+</details>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-## 📊 GitHub Stats 📊
-<div>
-<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&theme=github-dark&custom_title=Suteerth+Subramaniam's+GitHub+Stats&show_icons=true&locale=en"/>
-<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuteerth&theme=shades-of-purple&hide_border=true"/>
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=shades-of-purple&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook" />
-</p>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-:pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
