@@ -3,7 +3,7 @@
 = />
 </div>
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
-<h3 align="center"> Flutter App Developer 📱 || Competitive Coding 💻 || DSA ❤️ ||  Gamer 🎮 </h3>
+<h3 align="center"> Flutter App Developer 📱 || Backend Developer ⚙️ || Competitive Coding 💻 || DSA ❤️ ||  Gamer 🎮 || Music 🎸 || Fitness 🏋️ </h3>
 
  
 <h1 align="center"> ⭐ About Me ⭐ </h1>
@@ -18,13 +18,13 @@
 
 💭 Ask me about **Competitive Coding** and my **domains**.
 
-⚡***Hobbies*** : **Gym**🏋️, **Playing Football** ⚽, **Playing Open World Games** & **Listening to Pop**.
+⚡***Hobbies*** : **Gym**🏋️, **Playing Sports** ⚽, **Playing Open World Games**, **Playing Guitar** 🎸, **Calisthenics** 🤸‍♂️ **&** **Listening to Music** 🎶.
 
 ✉️ How to reach me **[Mail Here](mailto:suteerth.work@gmail.com)**
 
 ## Connect With Me 🌏
 <p align="left>
-<a href="https://www.linkedin.com/in/suteerth-subramaniam-723a27221/" target="blank">
+<a href="https://www.linkedin.com/in/suteerth-subramaniam/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 alt="suteerth-subramaniam" height="30" width="40" />
 </a>
@@ -41,11 +41,11 @@ alt="suteerth-subramaniam" height="30" width="40" />
 </a>
 </p>
 
-## Tech Array
+## Tech Stack
 
 <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<a href="https://isocpp.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </a> 
 <a href="https://dev.java/learn/getting-started-with-java/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
 </a>
@@ -53,17 +53,31 @@ alt="suteerth-subramaniam" height="30" width="40" />
 </a>
 <a href="https://firebase.google.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
- <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98741486/180622955-cfb54d37-5116-492d-961b-03dc615c0104.png" alt="androidstudio" width="40" height="40"/> 
+<a href="https://www.mongodb.com/atlas/database" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/98741486/180622955-cfb54d37-5116-492d-961b-03dc615c0104.png" alt="androidstudio" width="40" height="40"/> 
 </a> 
 <a href="https://flutter.dev/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a>
-  <a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<a href="https://nodejs.org/en" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
+</a>
+<a href="https://riverpod.dev/" target="blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/14641/348042/icon/pluginIcon.svg" alt="riverpod" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+</a> 
+<a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> 
+</a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
 </a> 
 
 ## 📊 GitHub Stats 📊
