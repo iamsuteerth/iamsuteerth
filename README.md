@@ -1,11 +1,13 @@
 <div align="center">
-  <img height = "400px" src="https://user-images.githubusercontent.com/98741486/180661116-5beb08a8-d293-4873-9a19-4bfbfe18e723.gif"
-= />
+  <img height = "400px" src="https://user-images.githubusercontent.com/98741486/180661116-5beb08a8-d293-4873-9a19-4bfbfe18e723.gif"/>
 </div>
-<h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
+
+<h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam 💻
+</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45">
+  </a>
 </p>
  
 <h1 align="center"> ⭐ About Me ⭐ </h1>
