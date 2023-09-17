@@ -85,13 +85,13 @@
 
 ### 🚀 **Technologies/Frameworks**
 <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
-</a>
-<a href="https://www.mongodb.com/atlas/database" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
+</a>
+<a href="https://www.mongodb.com/atlas/database" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
 </a>
 <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
