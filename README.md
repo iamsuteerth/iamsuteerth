@@ -3,10 +3,10 @@
 = />
 </div>
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam </a>💻</h1>
-
-<h3 align="center"> Flutter App Developer 📱 || Backend Developer ⚙️ || Competitive Coding 💻 || DSA 📊 </h3>
-<h3 align="center"> Gamer 🎮 || Music 🎸 || Fitness 🏋️ </h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45"></a>
+</p>
  
 <h1 align="center"> ⭐ About Me ⭐ </h1>
 
@@ -71,16 +71,28 @@
 <a href="https://www.r-project.org/about.html" target="_blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
+</a>
 
- ### 🚀 **Technologies/Frameworks**
+### 🚀 **Technologies/Frameworks**
+<a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
+</a>
 <a href="https://www.mongodb.com/atlas/database" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
 </a>
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
 </a>
-<a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
+<a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="NodeJS logo"  />
@@ -96,6 +108,9 @@
 </a>
 <a href="https://mui.com/material-ui/" target="_blank">
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" alt="Material UI logo"  />
+</a>
+<a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="28" alt="Material UI logo"  />
 </a>
 
 
@@ -120,6 +135,8 @@
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
+<a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
