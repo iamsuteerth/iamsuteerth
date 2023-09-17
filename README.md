@@ -9,20 +9,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45">
   </a>
 </p>
- 
 <h1 align="center"> ⭐ About Me ⭐ </h1>
 
 🏫 I am currently pursuing B.Tech in Computer Science and Engineering from **Vellore Institute Of Technology, Vellore**.
 
-📱 I am currently making **cross platform mobile apps** in **flutter**.
+📱 I am a competent flutter app developer.
 
-💻 I am actively solving LeetCode and CodeForces.
+💻 I actively solve problems from LeetCode and love learning concepts related to **DSA**.
 
-🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas.
+🧑‍💻 I am presently learning **NodeJS** 
 
-💭 Ask me about **Competitive Coding** and my **domains**.
+🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas or designing backends.
+
+💭 Ask me about **AppDev**, **Competitive Coding** and my **domains**.
 
 ⚡***Hobbies*** : **Gym**🏋️, **Playing Sports** ⚽, **Playing Open World Games**, **Playing Guitar** 🎸, **Calisthenics** 🤸‍♂️ **&** **Listening to Music** 🎶.
+
+I am a fast learner with an eye for details with a creative mind. I like solving problems in multiple ways and developing projects in general. My abilitiy to quickly learn anything and be good at it is one of my strongest points along with a strong sense of discipline and apt time management skills which allows me to learn so much in short periods of time. My profile is my way of demonstrating that I am capable of working on any kind of project and I just need a reason to do it!
+<br>
+I may be a bilingual in real life but when it comes to the world of Computer Scince, I can work with any language!
 
 ## Connect With Me 🌏
 <div align="left">
