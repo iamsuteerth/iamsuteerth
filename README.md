@@ -125,11 +125,16 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 
 
 ### 🛠️ **Developer Tools**
-<a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="_blank">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
-</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="28" alt="VSC logo"  />
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git logo"  />
+</a>
+<a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
+</a>
+<a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="_blank">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
 </a>
 <a href="https://github.com/iamsuteerth/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo"  />
@@ -137,14 +142,9 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28" alt="Postman logo"  />
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="28" alt="VSC logo"  />
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
-<a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
-</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
