@@ -1,9 +1,9 @@
 <div align="center">
   <img height = "400px" src="https://user-images.githubusercontent.com/98741486/180661116-5beb08a8-d293-4873-9a19-4bfbfe18e723.gif"/>
 </div>
-
 <h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam 💻
 </h1>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45">
@@ -23,11 +23,17 @@
 
 💭 Ask me about **AppDev**, **Competitive Coding** and my **domains**.
 
-⚡***Hobbies*** : **Gym**🏋️, **Playing Sports** ⚽, **Playing Open World Games**, **Playing Guitar** 🎸, **Calisthenics** 🤸‍♂️ **&** **Listening to Music** 🎶.
+***Hobbies*** : **Gym**🏋️, **Playing Sports** ⚽, **Playing Open World Games**, **Playing Guitar** 🎸, **Calisthenics** 🤸‍♂️ **&** **Listening to Music** 🎶.
 
-I am a fast learner with an eye for details with a creative mind. I like solving problems in multiple ways and developing projects in general. My abilitiy to quickly learn anything and be good at it is one of my strongest points along with a strong sense of discipline and apt time management skills which allows me to learn so much in short periods of time. My profile is my way of demonstrating that I am capable of working on any kind of project and I just need a reason to do it!
-<br>
-I may be a bilingual in real life but when it comes to the world of Computer Scince, I can work with any language!
+<details>
+  <summary><b> 💤 Boring Bio  </b></summary>
+  <br>
+  <div align="left">
+    I am a fast learner with an eye for details with a creative mind. I like solving problems in multiple ways and developing projects in general. My abilitiy to quickly learn anything and be good at it is one of my strongest points along with a strong sense of discipline and apt time management skills which allows me to learn so much in short periods of time. My profile is my way of demonstrating that I am capable of working on any kind of project and I just need a reason to do it!
+  <br> <br>
+  I may be a bilingual in real life but when it comes to the world of Computer Scince, I can work with any language!
+  </div>
+</details>
 
 ## Connect With Me 🌏
 <div align="left">
@@ -145,8 +151,8 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+#
 
 <details>
   <summary><b> 💻 Platforms </b></summary>
@@ -173,11 +179,8 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 
 <details>
   <summary><b> 📊 GitHub Stats 📊 </b></summary>
-  
-  ## 
   <div>
     <img  width="49%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-    <p><br></p>
     <p align = "center">
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&theme=tokyonight&custom_title=Suteerth+Subramaniam's+GitHub+Stats&show_icons=true&locale=en&hide_border=true"/>
     </p>
@@ -186,15 +189,15 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
     </p>
     <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook" />
-    </p>
   </div>
 </details>
+
+#
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
   ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+#
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
 </div>
