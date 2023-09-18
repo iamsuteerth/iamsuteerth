@@ -89,6 +89,9 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 </a>
 
 ### 🚀 **Technologies/Frameworks**
+<a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Flutter logo"  />
+</a>
 <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
 </a>
@@ -122,9 +125,6 @@ I may be a bilingual in real life but when it comes to the world of Computer Sci
 
 
 ### 🛠️ **Developer Tools**
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Flutter logo"  />
-</a>
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="_blank">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
 </a>
