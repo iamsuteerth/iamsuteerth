@@ -29,7 +29,7 @@
   <summary><b> 💤 Boring Bio  </b></summary>
   <br>
   <div align="left">
-    I am a fast learner with an eye for details with a creative mind. I like solving problems in multiple ways and developing projects in general. My abilitiy to quickly learn anything and be good at it is one of my strongest points along with a strong sense of discipline and apt time management skills which allows me to learn so much in short periods of time. My profile is my way of demonstrating that I am capable of working on any kind of project and I just need a reason to do it!
+   I'm a quick learner with an eye for detail and a creative mindset. I enjoy solving problems from multiple angles and thrive on building things. My ability to rapidly acquire new skills is a standout strength, coupled with disciplined time management. This profile reflects my versatility, ready to tackle any project. I just need a reason to do something, and I will do it good.
   <br> <br>
   I may be a bilingual in real life but when it comes to the world of Computer Scince, I can work with any language!
   </div>
