@@ -81,18 +81,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JS logo"  />
 </a>
-<a href="https://www.r-project.org/about.html" target="_blank">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
-</a>
 
 ### 🚀 **Technologies/Frameworks**
 <a href="https://flutter.dev/" target="_blank">
@@ -104,29 +92,14 @@
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
 </a>
-<a href="https://www.mongodb.com/atlas/database" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
-</a>
-<a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
-</a>
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="NodeJS logo"  />
-</a>
-<a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="28" alt="GitHub logo"  />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite logo"  />
 </a>
 <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express JS logo"  />
 </a>
 <a href="https://mui.com/material-ui/" target="_blank">
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" alt="Material UI logo"  />
-</a>
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="28" alt="Material UI logo"  />
 </a>
 
 
@@ -144,9 +117,6 @@
 </a>
 <a href="https://github.com/iamsuteerth/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo"  />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28" alt="Postman logo"  />
 </a>
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
@@ -195,9 +165,7 @@
 #
 
 <div align="center">
-
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-#
+  
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
+  
 </div>
