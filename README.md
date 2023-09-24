@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Backend+Developer+⚙️;Learning+React+And+Frontend&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Learning+Backend+Development+⚙️&center=true&width=380&height=45">
   </a>
 </p>
 <h1 align="center"> ⭐ About Me ⭐ </h1>
