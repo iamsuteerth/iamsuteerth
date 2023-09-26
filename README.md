@@ -121,7 +121,8 @@
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
-  
+</a>
+
 #
 
 <details>
