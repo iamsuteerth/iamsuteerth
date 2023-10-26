@@ -13,6 +13,7 @@
 
 🏫 I am currently pursuing B.Tech in Computer Science and Engineering from **Vellore Institute Of Technology, Vellore**.
 
+
 📱 I am a competent flutter app developer.
 
 💻 I actively solve problems from LeetCode and love learning concepts related to **DSA**.
