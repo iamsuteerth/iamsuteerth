@@ -64,99 +64,47 @@
 ## Tech Stack
 
 ### 👨‍💻 **Programming Languages**
-<a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" alt="c++ logo"  />
-</a>
-<a href="https://dev.java/learn/getting-started-with-java/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java logo"  />
-</a>
-<a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="28" alt="dart logo"  />
-</a>
-<a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="28" alt="Python logo"  />
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" alt="c logo"  />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JS logo"  />
-</a>
-<a href="https://www.r-project.org/about.html" target="_blank">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
-</a>
+<div align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28" alt="c++ logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="28" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="28" alt="Python logo"  />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" alt="c logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JS logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
+</div>
 
 ### 🚀 **Technologies/Frameworks**
-
-<a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Flutter logo"  />
-</a>
-<a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
-</a>
-<a href="https://www.mongodb.com/atlas/database" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
-</a>
-<a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL logo"  />
-</a>
-<a href="https://socket.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="28" alt="Socekt IO logo"  />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite logo"  />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express JS logo"  />
-</a>
-<a href="https://mui.com/material-ui/" target="_blank">
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" alt="Material UI logo"  />
-</a>
-<a href="https://mui.com/material-ui/" target="_blank">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28" alt="Next js logo"  />
-</a>
-<a href="https://redux.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="28" alt="Redux logo"  />
-</a>
+<div align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Flutter logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL logo"  />
+  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="28" alt="Socekt IO logo"  />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite logo"  />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express JS logo"  />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" alt="Material UI logo"  />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28" alt="Next js logo"  />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="28" alt="Redux logo"  />
+</div>
 
 ### 🛠️ **Developer Tools**
 
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="28" alt="VSC logo"  />
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git logo"  />
-</a>
-<a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM logo"  />
-</a>
-<a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="_blank">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
-</a>
-<a href="https://github.com/iamsuteerth/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo"  />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28" alt="Postman logo"  />
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
-</a>
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="28" alt="VSC logo"  />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git logo"  />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM logo"  />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28" alt="Postman logo"  />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
+</div>
+  
 #
 
 <details>
