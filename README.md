@@ -1,7 +1,7 @@
 <div align="center">
   <img height = "400px" src="https://user-images.githubusercontent.com/98741486/180661116-5beb08a8-d293-4873-9a19-4bfbfe18e723.gif"/>
 </div>
-<h1 align="center"> Hey There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam 💻
+<h1 align="center"> Hi There <img src=https://user-images.githubusercontent.com/98741486/180621020-83c6fe62-f8e4-41ad-bad0-87e1630e78a5.gif width="35px" height="35px">, I'm Suteerth Subramaniam 💻
 </h1>
 <br>
 <p align="center">
@@ -17,11 +17,11 @@
 
 💻 I actively solve problems from LeetCode and love learning concepts related to **DSA**.
 
-🧑‍💻 I am presently learning **NodeJS** 
+🧑‍💻 I am presently learning **NodeJS** and **ReactJS**. 
 
-🧑‍🤝‍🧑 I'm looking to collaborate on intuitive app ideas or designing backends.
+🧑‍🤝‍🧑 I'm looking to collaborate on full stack projects, mobile applications and web applications.
 
-💭 Ask me about **AppDev**, **Competitive Coding** and my **domains**.
+💭 Ask me about **Flutter**, **DSA** and my **domains**.
 
 ***Hobbies*** : **Gym**🏋️, **Playing Sports** ⚽, **Playing Open World Games**, **Playing Guitar** 🎸, **Calisthenics** 🤸‍♂️ **&** **Listening to Music** 🎶.
 
@@ -29,9 +29,9 @@
   <summary><b> 💤 Boring Bio  </b></summary>
   <br>
   <div align="left">
-   I'm a quick learner with an eye for detail and a creative mindset. I enjoy solving problems from multiple angles and thrive on building things. My ability to rapidly acquire new skills is a standout strength, coupled with disciplined time management. This profile reflects my versatility, ready to tackle any project. I just need a reason to do something, and I will do it good.
+  I'm a quick learner with a keen eye for detail and a creative mindset. I excel in tackling challenges from multiple perspectives and find joy in bringing ideas to life. My strength lies in rapidly acquiring new skills, and I'm known for disciplined time management. I thrive on versatility and approach each project with enthusiasm and a strong desire to excel. I'm driven by purpose and can turn any task into a successful endeavor.
   <br> <br>
-  I may be a bilingual in real life but when it comes to the world of Computer Scince, I can work with any language!
+  I may be a bilingual in real life but when it comes to the world of Computer Scince, I'm a polyglot
   </div>
 </details>
 
@@ -82,6 +82,18 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JS logo"  />
 </a>
+<a href="https://www.r-project.org/about.html" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
+</a>
 
 ### 🚀 **Technologies/Frameworks**
 
@@ -94,14 +106,32 @@
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
 </a>
+<a href="https://www.mongodb.com/atlas/database" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
+</a>
+<a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="ReactJS logo"  />
+</a>
 <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="NodeJS logo"  />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL logo"  />
+</a>
+<a href="https://socket.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="28" alt="Socekt IO logo"  />
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite logo"  />
 </a>
 <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express JS logo"  />
 </a>
 <a href="https://mui.com/material-ui/" target="_blank">
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="28" alt="Material UI logo"  />
+</a>
+<a href="https://mui.com/material-ui/" target="_blank">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="28" alt="Next js logo"  />
+</a>
+<a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="28" alt="Redux logo"  />
 </a>
 
 ### 🛠️ **Developer Tools**
@@ -112,7 +142,7 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git logo"  />
 </a>
 <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="28" alt="NPM logo"  />
 </a>
 <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDLhYMRh5aNJJ1P9ih5sfJVS6TSwy4NgaUpwJiA9oy2y7vT_RQNyymcaAlM7EALw_wcB&gclsrc=aw.ds" target="_blank">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="28" alt="Android Studio logo"  />
@@ -120,6 +150,8 @@
 <a href="https://github.com/iamsuteerth/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo"  />
 </a>
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="28" alt="Postman logo"  />
 </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="28" alt="IntellJ IDEA logo"  />
@@ -168,7 +200,11 @@
 #
 
 <div align="center">
-  
+
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+#
+
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
-  
+
 </div>
