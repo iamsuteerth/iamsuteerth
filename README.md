@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Flutter+App+Developer+📱;Learning+Backend+Development+⚙️&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Flutter+App+Developer+📱;Learning+Web+Development+⚙️&center=true&width=380&height=45">
   </a>
 </p>
 <h1 align="center"> ⭐ About Me ⭐ </h1>
@@ -148,11 +148,7 @@
 #
 
 <div align="center">
-
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-#
-
+  
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
 
 </div>
