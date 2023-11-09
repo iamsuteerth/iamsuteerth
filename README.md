@@ -72,15 +72,16 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" alt="c logo"  />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28" alt="JS logo"  />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TS logo" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML logo"  />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" alt="R logo"  />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-0B0B0B?style=for-the-badge&logo=tailwindcss&logoColor=blue" height="28" alt="Tailwind CSS logo"  />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS logo"  />
 </div>
 
 ### 🚀 **Technologies/Frameworks**
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="Flutter logo"  />
+  <img src="https://img.shields.io/badge/Solutions%20Architect%20Associate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28" alt="Flutter logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="NodeJS logo"  />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase logo"  />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB logo"  />
