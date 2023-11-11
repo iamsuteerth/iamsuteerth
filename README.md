@@ -17,7 +17,7 @@
 
 💻 I actively solve problems from LeetCode and love learning concepts related to **DSA**.
 
-🧑‍💻 I am presently learning **NodeJS** and **ReactJS**. 
+🧑‍💻 I am currently learning **NodeJS** and **ReactJS**. 
 
 🧑‍🤝‍🧑 I'm looking to collaborate on full stack projects, mobile applications and web applications.
 
