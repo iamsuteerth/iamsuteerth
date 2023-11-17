@@ -151,8 +151,6 @@
 
 <div align="center">
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/iamsuteerth/iamsuteerth/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-#
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
+  
 </div>
