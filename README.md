@@ -148,7 +148,6 @@
 </details>
 
 #
-
 <div align="center">
 
   :pushpin: Liked this introduction? You can also make similar for yourself. Star ⭐ and Fork this **[README](https://github.com/iamsuteerth/iamsuteerth)** :pencil:
