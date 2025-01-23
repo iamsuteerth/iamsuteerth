@@ -11,7 +11,7 @@
 </p>
 <h1 align="center"> ⭐ About Me ⭐ </h1>
 
-🏫 I am a pre final year UG student pursuing B.Tech in Computer Science and Engineering from **Vellore Institute Of Technology, Vellore**.
+🏫 I am a final year UG student pursuing B.Tech in Computer Science and Engineering from **Vellore Institute Of Technology, Vellore**.
 
 📱 I am a competent flutter app developer.
 
