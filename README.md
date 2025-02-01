@@ -85,8 +85,8 @@
 
 <details>
   <summary><b> 📊 GitHub Stats 📊 </b></summary>
-  <div>
-    <img  width="49%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <div align="center">
+    <img  width="50%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
     <p align = "center">
     <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=iamsuteerth&theme=tokyonight&custom_title=Suteerth+Subramaniam's+GitHub+Stats&show_icons=true&locale=en&hide_border=true"/>
     </p>
@@ -95,6 +95,8 @@
     </p>
     <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuteerth&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&hide=jupyter%20notebook" />
+    <br>
+    <img  width="50%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   </div>
 </details>
 
